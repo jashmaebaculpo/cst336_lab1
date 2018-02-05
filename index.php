@@ -46,7 +46,7 @@ in html
         
         <br /> <br />
         <figure id = "me">
-            <img src = "/Portfolio-lab/img/Jashmae_B.png" alt "Picture of Jashmae Baculpo." />
+            <img src = "/img/Jashmae_B.png" alt "Picture of Jashmae Baculpo." />
         </figure>
         
         <main>
